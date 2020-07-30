@@ -1,7 +1,7 @@
 # myFirstGit
-## vhasjHSAUoajkdsbkalsdfkajhdkfgjhaksldhjbfpajsbdogfhuajhsfpgafkj
+###### 22
 ###### 1
-###### enter the ng serve into cmd
+###### enter the ng serve
 ### table 
 | COURSE Name | COURSE ID   | course Time |
 | :----------: | :----------: | :----------: |
